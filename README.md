@@ -1,9 +1,10 @@
 # Responsi Senior Project - Studi Kasus 1
 
-Nama : [NAMA]  
-NIU : [NIU]  
-Sesi : [SESI]  
-Secret String : [SECRET_STRING]
+Nama : [Dhiyaa Amalia Putri]  
+NIU : [479811]  
+Sesi : [SESI1]  
+Secret String : [2548c0407926cac685886a1ea12d73c226ce4f49beb21803dd6db8eb170761b220240603005827
+]
 
 ## Checklist Responsi
 
